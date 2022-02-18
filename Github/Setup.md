@@ -4,7 +4,7 @@
 
 This is useful for when your Git client such as VS Code, GitKraken, Github Desktop, etc... gives you errors on logging in or merging or anything else.
 
-If you don't know what a word means in a sentence, feel free to consult the [Glossary](/Glossary.md#Glossary)
+If you don't know what a word means in a sentence, feel free to consult the [Glossary](/Glossary.md)
 
 ==================
 
