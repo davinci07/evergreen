@@ -4,6 +4,8 @@
 
 This is useful for when your Git client such as VS Code, GitKraken, Github Desktop, etc... gives you errors on logging in or merging or anything else.
 
+If you don't know what a word means in a sentence, feel free to consult the [Glossary](/Glossary.md#Glossary)
+
 ==================
 
 Windows
@@ -13,7 +15,7 @@ Windows
 
 2. Open the Installation Wizard and install into the appropriate folder (usually its the `C:\Program Files\GitHub CLI\` folder)
 
-3. Verify that it works on your machine by running `gh`. Then if its working, run `gh auth login` to login into your account for easier utility when cloming repositories.
+3. Verify that it works on your machine by running `gh`. Then if its working, run `gh auth login` to login into your account for easier utility when cloning repositories.
 
 
 Mac OS
